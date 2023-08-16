@@ -1,0 +1,66 @@
+body{
+    background-color:rgb(234, 234, 234);
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+header{
+    background-color:white;
+    }
+
+
+header h1{
+    width: 400px;
+    margin: 0px auto;
+
+}
+
+article{
+    width: 400px;
+    margin: 0 auto;
+    margin-top:40px;
+
+}
+
+
+img{
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    display: flex;
+    }
+
+div.top{
+     display: flex;
+    justify-content: space-between;
+    background-color: white;
+    font-size:11px;
+    font-weight:bolder;
+    height:10px;
+    padding-bottom:30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    }
+    
+    div p{
+        background-color: white;
+        margin-top: 0%;
+        font-size: 15px;
+         }
+        
+        h3.top_date{
+           color:rgb(210, 203, 201);
+           font-size:11px ;
+           }
+
+div p{
+    padding: 13px 13px;
+    font-size: 12px;
+
+}
+
+    
+
+
+
